@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 3acdbcb489b4bf24b83dc623d571cc15
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arboles
+    100002: Cube.002
+    100004: Escalera
+    100006: Estructura_Casa
+    100008: //RootNode
+    100010: puerta
+    100012: suelo.001
+    400000: arboles
+    400002: Cube.002
+    400004: Escalera
+    400006: Estructura_Casa
+    400008: //RootNode
+    400010: puerta
+    400012: suelo.001
+    2100000: madera.002
+    2100002: arbol
+    2100004: Piso_Madera
+    2100006: paredConcreto
+    2100008: madera
+    2100010: Vidrio
+    2100012: detallesMadera
+    2100014: cartel
+    2300000: arboles
+    2300002: Cube.002
+    2300004: Escalera
+    2300006: Estructura_Casa
+    2300008: puerta
+    2300010: suelo.001
+    3300000: arboles
+    3300002: Cube.002
+    3300004: Escalera
+    3300006: Estructura_Casa
+    3300008: puerta
+    3300010: suelo.001
+    4300000: Escalera
+    4300002: arboles
+    4300004: suelo.001
+    4300006: puerta
+    4300008: Estructura_Casa
+    4300010: Cube.002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Madera
+    second: {fileID: 2100000, guid: c7e1aa78b60f6954f8c0c6e52288a4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidrio
+    second: {fileID: 2100000, guid: 0427e88b47763e34481611fc8f211663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbol
+    second: {fileID: 2100000, guid: fcec3fcaf384e0144b18739bef548b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cartel
+    second: {fileID: 2100000, guid: b802c0b42a4a31847bec386199f9e9f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: detallesMadera
+    second: {fileID: 2100000, guid: 9fbe670132c4e0142bde6ec7bc0eab92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera
+    second: {fileID: 2100000, guid: 39f94c8459baebc46bc3690c3198ce3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera.002
+    second: {fileID: 2100000, guid: e87c197266c80c643975a4bf5ad0c4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paredConcreto
+    second: {fileID: 2100000, guid: 82c2da7de5a3c7a4dad290b019672dec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 11dbc97f1c7271545b44e3daa01da370
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: antebrazo.L
+    100002: antebrazo.R
+    100004: boca de estomago
+    100006: Bone.003
+    100008: Bone.004
+    100010: Bone.004_end
+    100012: brazo.L
+    100014: brazo.R
+    100016: cintura
+    100018: cintura_end
+    100020: columna
+    100022: conductor pierna.L
+    100024: conductor pierna.R
+    100026: dedo anular primer farange.L
+    100028: dedo anular primer farange.L_end
+    100030: dedo anular primer farange.R
+    100032: dedo anular primer farange.R_end
+    100034: dedo anular segunda farange.L
+    100036: dedo anular segunda farange.R
+    100038: dedo anular tercer farange.L
+    100040: dedo anular tercer farange.R
+    100042: dedo corazon primer farange.L
+    100044: dedo corazon primer farange.L_end
+    100046: dedo corazon primer farange.R
+    100048: dedo corazon primer farange.R_end
+    100050: dedo corazon tercer farange.L
+    100052: dedo corazon tercer farange.R
+    100054: "dedo coraz\xF3n segunda farange.L"
+    100056: "dedo coraz\xF3n segunda farange.R"
+    100058: dedo indice primer farange.L
+    100060: dedo indice primer farange.L_end
+    100062: dedo indice primer farange.R
+    100064: dedo indice primer farange.R_end
+    100066: dedo indice segunda farange.L
+    100068: dedo indice segunda farange.R
+    100070: dedo indice tercer farange.L
+    100072: dedo indice tercer farange.R
+    100074: dedo menique primer farange.L
+    100076: dedo menique primer farange.L_end
+    100078: dedo menique primer farange.R
+    100080: dedo menique primer farange.R_end
+    100082: dedo menique tercer farange.L
+    100084: dedo menique tercer farange.R
+    100086: dedo meniquesegunda farange.L
+    100088: dedo meniquesegunda farange.R
+    100090: dedo pulgar primer farange.L
+    100092: dedo pulgar primer farange.L_end
+    100094: dedo pulgar primer farange.R
+    100096: dedo pulgar primer farange.R_end
+    100098: dedo pulgar segunda farange.L
+    100100: dedo pulgar segunda farange.R
+    100102: dedo pulgar tercer farange.L
+    100104: dedo pulgar tercer farange.R
+    100106: empeine.L
+    100108: empeine.L_end
+    100110: empeine.R
+    100112: empeine.R_end
+    100114: //RootNode
+    100116: hombro.L
+    100118: hombro.R
+    100120: ik antebrazo.L
+    100122: ik antebrazo.R
+    100124: IK Codo .L
+    100126: IK Codo .L_end
+    100128: IK Codo .R
+    100130: IK Codo .R_end
+    100132: Ik metatarzo adelante.L
+    100134: Ik metatarzo adelante.R
+    100136: ik muslo.L
+    100138: ik muslo.L_end
+    100140: ik muslo.R
+    100142: ik muslo.R_end
+    100144: IK talon.L
+    100146: IK talon.R
+    100148: IK tobillo.L
+    100150: IK tobillo.L_end
+    100152: IK tobillo.R
+    100154: IK tobillo.R_end
+    100156: maestro
+    100158: maestro principal
+    100160: manejador dedo corazon.L
+    100162: manejador dedo corazon.L_end
+    100164: manejador dedo corazon.R
+    100166: manejador dedo corazon.R_end
+    100168: manejador dedo indice.L
+    100170: manejador dedo indice.L_end
+    100172: manejador dedo indice.R
+    100174: manejador dedo indice.R_end
+    100176: manejador dedo pulgar.L
+    100178: manejador dedo pulgar.L_end
+    100180: manejador dedo pulgar.R
+    100182: manejador dedo pulgar.R_end
+    100184: manejador menique.L
+    100186: manejador menique.L_end
+    100188: manejador menique.R
+    100190: manejador menique.R_end
+    100192: manipulador anular .L
+    100194: manipulador anular .L_end
+    100196: manipulador anular .R
+    100198: manipulador anular .R_end
+    100200: manipulador todos los dedos.L
+    100202: manipulador todos los dedos.L_end
+    100204: manipulador todos los dedos.R
+    100206: manipulador todos los dedos.R_end
+    100208: mano.L
+    100210: mano.R
+    100212: muslo.L
+    100214: muslo.R
+    100216: pantorrilla.L
+    100218: pantorrilla.R
+    100220: pecho
+    100222: Plane.004
+    100224: rigging enemigo principal
+    100226: "Rotaci\xF3n de pie.L"
+    100228: "Rotaci\xF3n de pie.L_end"
+    100230: "Rotaci\xF3n de pie.R"
+    100232: "Rotaci\xF3n de pie.R_end"
+    100234: tobillo.L
+    100236: tobillo.R
+    400000: antebrazo.L
+    400002: antebrazo.R
+    400004: boca de estomago
+    400006: Bone.003
+    400008: Bone.004
+    400010: Bone.004_end
+    400012: brazo.L
+    400014: brazo.R
+    400016: cintura
+    400018: cintura_end
+    400020: columna
+    400022: conductor pierna.L
+    400024: conductor pierna.R
+    400026: dedo anular primer farange.L
+    400028: dedo anular primer farange.L_end
+    400030: dedo anular primer farange.R
+    400032: dedo anular primer farange.R_end
+    400034: dedo anular segunda farange.L
+    400036: dedo anular segunda farange.R
+    400038: dedo anular tercer farange.L
+    400040: dedo anular tercer farange.R
+    400042: dedo corazon primer farange.L
+    400044: dedo corazon primer farange.L_end
+    400046: dedo corazon primer farange.R
+    400048: dedo corazon primer farange.R_end
+    400050: dedo corazon tercer farange.L
+    400052: dedo corazon tercer farange.R
+    400054: "dedo coraz\xF3n segunda farange.L"
+    400056: "dedo coraz\xF3n segunda farange.R"
+    400058: dedo indice primer farange.L
+    400060: dedo indice primer farange.L_end
+    400062: dedo indice primer farange.R
+    400064: dedo indice primer farange.R_end
+    400066: dedo indice segunda farange.L
+    400068: dedo indice segunda farange.R
+    400070: dedo indice tercer farange.L
+    400072: dedo indice tercer farange.R
+    400074: dedo menique primer farange.L
+    400076: dedo menique primer farange.L_end
+    400078: dedo menique primer farange.R
+    400080: dedo menique primer farange.R_end
+    400082: dedo menique tercer farange.L
+    400084: dedo menique tercer farange.R
+    400086: dedo meniquesegunda farange.L
+    400088: dedo meniquesegunda farange.R
+    400090: dedo pulgar primer farange.L
+    400092: dedo pulgar primer farange.L_end
+    400094: dedo pulgar primer farange.R
+    400096: dedo pulgar primer farange.R_end
+    400098: dedo pulgar segunda farange.L
+    400100: dedo pulgar segunda farange.R
+    400102: dedo pulgar tercer farange.L
+    400104: dedo pulgar tercer farange.R
+    400106: empeine.L
+    400108: empeine.L_end
+    400110: empeine.R
+    400112: empeine.R_end
+    400114: //RootNode
+    400116: hombro.L
+    400118: hombro.R
+    400120: ik antebrazo.L
+    400122: ik antebrazo.R
+    400124: IK Codo .L
+    400126: IK Codo .L_end
+    400128: IK Codo .R
+    400130: IK Codo .R_end
+    400132: Ik metatarzo adelante.L
+    400134: Ik metatarzo adelante.R
+    400136: ik muslo.L
+    400138: ik muslo.L_end
+    400140: ik muslo.R
+    400142: ik muslo.R_end
+    400144: IK talon.L
+    400146: IK talon.R
+    400148: IK tobillo.L
+    400150: IK tobillo.L_end
+    400152: IK tobillo.R
+    400154: IK tobillo.R_end
+    400156: maestro
+    400158: maestro principal
+    400160: manejador dedo corazon.L
+    400162: manejador dedo corazon.L_end
+    400164: manejador dedo corazon.R
+    400166: manejador dedo corazon.R_end
+    400168: manejador dedo indice.L
+    400170: manejador dedo indice.L_end
+    400172: manejador dedo indice.R
+    400174: manejador dedo indice.R_end
+    400176: manejador dedo pulgar.L
+    400178: manejador dedo pulgar.L_end
+    400180: manejador dedo pulgar.R
+    400182: manejador dedo pulgar.R_end
+    400184: manejador menique.L
+    400186: manejador menique.L_end
+    400188: manejador menique.R
+    400190: manejador menique.R_end
+    400192: manipulador anular .L
+    400194: manipulador anular .L_end
+    400196: manipulador anular .R
+    400198: manipulador anular .R_end
+    400200: manipulador todos los dedos.L
+    400202: manipulador todos los dedos.L_end
+    400204: manipulador todos los dedos.R
+    400206: manipulador todos los dedos.R_end
+    400208: mano.L
+    400210: mano.R
+    400212: muslo.L
+    400214: muslo.R
+    400216: pantorrilla.L
+    400218: pantorrilla.R
+    400220: pecho
+    400222: Plane.004
+    400224: rigging enemigo principal
+    400226: "Rotaci\xF3n de pie.L"
+    400228: "Rotaci\xF3n de pie.L_end"
+    400230: "Rotaci\xF3n de pie.R"
+    400232: "Rotaci\xF3n de pie.R_end"
+    400234: tobillo.L
+    400236: tobillo.R
+    2100000: ropa personaje principal.003
+    2100002: ojos.004
+    4300000: Plane.004
+    7400000: ciclo caminata enemigo principal
+    7400002: ciclo caminata enemigo principal 2.001
+    7400004: rigging enemigo principal|Camera.003Action
+    7400006: rigging enemigo principal|caminata personaje principal.001
+    7400008: rigging enemigo principal|ciclo caminata enemigo principal 2
+    7400010: ENEMIGO principal caminata MANOS ARRIBAA
+    7400012: rigging enemigo principal|Golpe de patada boladora.001
+    7400014: rigging enemigo principal|Golpe de patada personaje principal.004
+    7400016: "rigging enemigo principal|golpe de pu\xF1o"
+    7400018: rigging enemigo principal|patada_barrido
+    7400020: rigging enemigo principal|rigging generalAction.001
+    9500000: //RootNode
+    13700000: Plane.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ojos.004
+    second: {fileID: 2100000, guid: d248af75174b5584980ff92a51226466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ropa personaje principal.003
+    second: {fileID: 2100000, guid: d6394be4973feea46816e7382869ce12, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ciclo caminata enemigo principal
+      takeName: ciclo caminata enemigo principal
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ciclo caminata enemigo principal 2.001
+      takeName: ciclo caminata enemigo principal 2.001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo principal|Camera.003Action
+      takeName: rigging enemigo principal|Camera.003Action
+      firstFrame: 0
+      lastFrame: 1202
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo principal|caminata personaje principal.001
+      takeName: rigging enemigo principal|caminata personaje principal.001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo principal|ciclo caminata enemigo principal 2
+      takeName: rigging enemigo principal|ciclo caminata enemigo principal 2
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENEMIGO principal caminata MANOS ARRIBAA
+      takeName: rigging enemigo principal|ciclo caminata enemigo principal MANOS ARRIBA
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo principal|Golpe de patada boladora.001
+      takeName: rigging enemigo principal|Golpe de patada boladora.001
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo principal|Golpe de patada personaje principal.004
+      takeName: rigging enemigo principal|Golpe de patada personaje principal.004
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "rigging enemigo principal|golpe de pu\xF1o"
+      takeName: "rigging enemigo principal|golpe de pu\xF1o"
+      firstFrame: 0
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo principal|patada_barrido
+      takeName: rigging enemigo principal|patada_barrido
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo principal|rigging generalAction.001
+      takeName: rigging enemigo principal|rigging generalAction.001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
