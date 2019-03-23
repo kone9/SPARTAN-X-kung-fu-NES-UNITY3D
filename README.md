@@ -1,7 +1,7 @@
 
 # SPARTAN-X-kung-fu-NES-UNITY3D
 
-Recreando spartan X Kunf fu nes con UNITY3D
+Recreando spartan X Kung fu nes con UNITY3D
 
 #### Video del proyecto ----->  <https://www.youtube.com/watch?v=2mdU4Yra1fc   <--------------
 
