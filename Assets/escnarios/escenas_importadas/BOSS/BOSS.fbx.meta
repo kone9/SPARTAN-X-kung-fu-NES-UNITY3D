@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 871ab240009ddf940918bbaa0c79b973
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: antebrazo.L
+    100002: antebrazo.R
+    100004: boca de estomago
+    100006: Bone.003
+    100008: Bone.004
+    100010: Bone.004_end
+    100012: BOSS
+    100014: //RootNode
+    100016: brazo.L
+    100018: brazo.R
+    100020: cintura
+    100022: cintura_end
+    100024: columna
+    100026: conductor pierna.L
+    100028: conductor pierna.R
+    100030: dedo anular primer farange.L
+    100032: dedo anular primer farange.L_end
+    100034: dedo anular primer farange.R
+    100036: dedo anular primer farange.R_end
+    100038: dedo anular segunda farange.L
+    100040: dedo anular segunda farange.R
+    100042: dedo anular tercer farange.L
+    100044: dedo anular tercer farange.R
+    100046: dedo corazon primer farange.L
+    100048: dedo corazon primer farange.L_end
+    100050: dedo corazon primer farange.R
+    100052: dedo corazon primer farange.R_end
+    100054: dedo corazon tercer farange.L
+    100056: dedo corazon tercer farange.R
+    100058: "dedo coraz\xF3n segunda farange.L"
+    100060: "dedo coraz\xF3n segunda farange.R"
+    100062: dedo indice primer farange.L
+    100064: dedo indice primer farange.L_end
+    100066: dedo indice primer farange.R
+    100068: dedo indice primer farange.R_end
+    100070: dedo indice segunda farange.L
+    100072: dedo indice segunda farange.R
+    100074: dedo indice tercer farange.L
+    100076: dedo indice tercer farange.R
+    100078: dedo menique primer farange.L
+    100080: dedo menique primer farange.L_end
+    100082: dedo menique primer farange.R
+    100084: dedo menique primer farange.R_end
+    100086: dedo menique tercer farange.L
+    100088: dedo menique tercer farange.R
+    100090: dedo meniquesegunda farange.L
+    100092: dedo meniquesegunda farange.R
+    100094: dedo pulgar primer farange.L
+    100096: dedo pulgar primer farange.L_end
+    100098: dedo pulgar primer farange.R
+    100100: dedo pulgar primer farange.R_end
+    100102: dedo pulgar segunda farange.L
+    100104: dedo pulgar segunda farange.R
+    100106: dedo pulgar tercer farange.L
+    100108: dedo pulgar tercer farange.R
+    100110: empeine.L
+    100112: empeine.L_end
+    100114: empeine.R
+    100116: empeine.R_end
+    100118: hombro.L
+    100120: hombro.R
+    100122: ik antebrazo.R
+    100124: IK Codo .R
+    100126: IK Codo .R_end
+    100128: Ik metatarzo adelante.L
+    100130: Ik metatarzo adelante.R
+    100132: ik muslo.L
+    100134: ik muslo.L_end
+    100136: ik muslo.R
+    100138: ik muslo.R_end
+    100140: IK talon.L
+    100142: IK talon.R
+    100144: IK tobillo.L
+    100146: IK tobillo.L_end
+    100148: IK tobillo.R
+    100150: IK tobillo.R_end
+    100152: maestro
+    100154: maestro principal
+    100156: manejador dedo corazon.R
+    100158: manejador dedo corazon.R_end
+    100160: manejador dedo indice.R
+    100162: manejador dedo indice.R_end
+    100164: manejador dedo pulgar.L
+    100166: manejador dedo pulgar.L_end
+    100168: manejador dedo pulgar.R
+    100170: manejador dedo pulgar.R_end
+    100172: manejador menique.R
+    100174: manejador menique.R_end
+    100176: manipulador anular .R
+    100178: manipulador anular .R_end
+    100180: manipulador todos los dedos.R
+    100182: manipulador todos los dedos.R_end
+    100184: mano.L
+    100186: mano.R
+    100188: muslo.L
+    100190: muslo.R
+    100192: pantorrilla.L
+    100194: pantorrilla.R
+    100196: pecho
+    100198: rigging enemigo BOSS
+    100200: "Rotaci\xF3n de pie.L"
+    100202: "Rotaci\xF3n de pie.L_end"
+    100204: "Rotaci\xF3n de pie.R"
+    100206: "Rotaci\xF3n de pie.R_end"
+    100208: tobillo.L
+    100210: tobillo.R
+    400000: antebrazo.L
+    400002: antebrazo.R
+    400004: boca de estomago
+    400006: Bone.003
+    400008: Bone.004
+    400010: Bone.004_end
+    400012: BOSS
+    400014: //RootNode
+    400016: brazo.L
+    400018: brazo.R
+    400020: cintura
+    400022: cintura_end
+    400024: columna
+    400026: conductor pierna.L
+    400028: conductor pierna.R
+    400030: dedo anular primer farange.L
+    400032: dedo anular primer farange.L_end
+    400034: dedo anular primer farange.R
+    400036: dedo anular primer farange.R_end
+    400038: dedo anular segunda farange.L
+    400040: dedo anular segunda farange.R
+    400042: dedo anular tercer farange.L
+    400044: dedo anular tercer farange.R
+    400046: dedo corazon primer farange.L
+    400048: dedo corazon primer farange.L_end
+    400050: dedo corazon primer farange.R
+    400052: dedo corazon primer farange.R_end
+    400054: dedo corazon tercer farange.L
+    400056: dedo corazon tercer farange.R
+    400058: "dedo coraz\xF3n segunda farange.L"
+    400060: "dedo coraz\xF3n segunda farange.R"
+    400062: dedo indice primer farange.L
+    400064: dedo indice primer farange.L_end
+    400066: dedo indice primer farange.R
+    400068: dedo indice primer farange.R_end
+    400070: dedo indice segunda farange.L
+    400072: dedo indice segunda farange.R
+    400074: dedo indice tercer farange.L
+    400076: dedo indice tercer farange.R
+    400078: dedo menique primer farange.L
+    400080: dedo menique primer farange.L_end
+    400082: dedo menique primer farange.R
+    400084: dedo menique primer farange.R_end
+    400086: dedo menique tercer farange.L
+    400088: dedo menique tercer farange.R
+    400090: dedo meniquesegunda farange.L
+    400092: dedo meniquesegunda farange.R
+    400094: dedo pulgar primer farange.L
+    400096: dedo pulgar primer farange.L_end
+    400098: dedo pulgar primer farange.R
+    400100: dedo pulgar primer farange.R_end
+    400102: dedo pulgar segunda farange.L
+    400104: dedo pulgar segunda farange.R
+    400106: dedo pulgar tercer farange.L
+    400108: dedo pulgar tercer farange.R
+    400110: empeine.L
+    400112: empeine.L_end
+    400114: empeine.R
+    400116: empeine.R_end
+    400118: hombro.L
+    400120: hombro.R
+    400122: ik antebrazo.R
+    400124: IK Codo .R
+    400126: IK Codo .R_end
+    400128: Ik metatarzo adelante.L
+    400130: Ik metatarzo adelante.R
+    400132: ik muslo.L
+    400134: ik muslo.L_end
+    400136: ik muslo.R
+    400138: ik muslo.R_end
+    400140: IK talon.L
+    400142: IK talon.R
+    400144: IK tobillo.L
+    400146: IK tobillo.L_end
+    400148: IK tobillo.R
+    400150: IK tobillo.R_end
+    400152: maestro
+    400154: maestro principal
+    400156: manejador dedo corazon.R
+    400158: manejador dedo corazon.R_end
+    400160: manejador dedo indice.R
+    400162: manejador dedo indice.R_end
+    400164: manejador dedo pulgar.L
+    400166: manejador dedo pulgar.L_end
+    400168: manejador dedo pulgar.R
+    400170: manejador dedo pulgar.R_end
+    400172: manejador menique.R
+    400174: manejador menique.R_end
+    400176: manipulador anular .R
+    400178: manipulador anular .R_end
+    400180: manipulador todos los dedos.R
+    400182: manipulador todos los dedos.R_end
+    400184: mano.L
+    400186: mano.R
+    400188: muslo.L
+    400190: muslo.R
+    400192: pantorrilla.L
+    400194: pantorrilla.R
+    400196: pecho
+    400198: rigging enemigo BOSS
+    400200: "Rotaci\xF3n de pie.L"
+    400202: "Rotaci\xF3n de pie.L_end"
+    400204: "Rotaci\xF3n de pie.R"
+    400206: "Rotaci\xF3n de pie.R_end"
+    400208: tobillo.L
+    400210: tobillo.R
+    2100000: ropa personaje BOSS
+    2100002: ojos BOSS
+    4300000: BOSS
+    7400000: MuertoENEMIGOPRINCIPAL
+    7400002: caminarBOSS
+    7400004: BOSSGolpearArriba
+    7400006: BOSSGolpearABajo
+    7400008: rigging enemigo BOSS|BOSSGolpearABajo
+    7400010: rigging enemigo BOSS|BOSSGolpearABajo.001
+    7400012: rigging enemigo BOSS|Camera.003Action
+    9500000: //RootNode
+    13700000: BOSS
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ojos BOSS
+    second: {fileID: 2100000, guid: f751f5504077c274baecb61ed5c7c6c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ropa personaje BOSS
+    second: {fileID: 2100000, guid: d5aebc8bd51dd69419c39ae9922d6c4d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MuertoENEMIGOPRINCIPAL
+      takeName: MuertoENEMIGOPRINCIPAL
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: caminarBOSS
+      takeName: caminarBOSS
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BOSSGolpearArriba
+      takeName: BOSSGolpearArriba
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BOSSGolpearABajo
+      takeName: BOSSGolpearABajo
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo BOSS|BOSSGolpearABajo
+      takeName: rigging enemigo BOSS|BOSSGolpearABajo
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo BOSS|BOSSGolpearABajo.001
+      takeName: rigging enemigo BOSS|BOSSGolpearABajo.001
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigging enemigo BOSS|Camera.003Action
+      takeName: rigging enemigo BOSS|Camera.003Action
+      firstFrame: 0
+      lastFrame: 1202
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

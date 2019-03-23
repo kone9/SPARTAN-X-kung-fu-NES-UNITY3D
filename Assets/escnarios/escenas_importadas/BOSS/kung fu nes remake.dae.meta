@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 685acd663d5d43c4ca1d0aad57d45ce5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: antebrazo.L
+    100002: antebrazo.R
+    100004: boca de estomago
+    100006: Bone.003
+    100008: Bone.004
+    100010: BOSS
+    100012: brazo.L
+    100014: brazo.R
+    100016: cintura
+    100018: columna
+    100020: conductor pierna.L
+    100022: conductor pierna.R
+    100024: dedo anular primer farange.L
+    100026: dedo anular primer farange.R
+    100028: dedo anular segunda farange.L
+    100030: dedo anular segunda farange.R
+    100032: dedo anular tercer farange.L
+    100034: dedo anular tercer farange.R
+    100036: dedo corazon primer farange.L
+    100038: dedo corazon primer farange.R
+    100040: dedo corazon tercer farange.L
+    100042: dedo corazon tercer farange.R
+    100044: "dedo coraz\xF3n segunda farange.L"
+    100046: "dedo coraz\xF3n segunda farange.R"
+    100048: dedo indice primer farange.L
+    100050: dedo indice primer farange.R
+    100052: dedo indice segunda farange.L
+    100054: dedo indice segunda farange.R
+    100056: dedo indice tercer farange.L
+    100058: dedo indice tercer farange.R
+    100060: dedo menique primer farange.L
+    100062: dedo menique primer farange.R
+    100064: dedo menique tercer farange.L
+    100066: dedo menique tercer farange.R
+    100068: dedo meniquesegunda farange.L
+    100070: dedo meniquesegunda farange.R
+    100072: dedo pulgar primer farange.L
+    100074: dedo pulgar primer farange.R
+    100076: dedo pulgar segunda farange.L
+    100078: dedo pulgar segunda farange.R
+    100080: dedo pulgar tercer farange.L
+    100082: dedo pulgar tercer farange.R
+    100084: empeine.L
+    100086: empeine.R
+    100088: hombro.L
+    100090: hombro.R
+    100092: ik antebrazo.R
+    100094: IK Codo .R
+    100096: Ik metatarzo adelante.L
+    100098: Ik metatarzo adelante.R
+    100100: ik muslo.L
+    100102: ik muslo.R
+    100104: IK talon.L
+    100106: IK talon.R
+    100108: IK tobillo.L
+    100110: IK tobillo.R
+    100112: //RootNode
+    100114: maestro
+    100116: maestro principal
+    100118: manejador dedo corazon.R
+    100120: manejador dedo indice.R
+    100122: manejador dedo pulgar.L
+    100124: manejador dedo pulgar.R
+    100126: manejador menique.R
+    100128: manipulador anular .R
+    100130: manipulador todos los dedos.R
+    100132: mano.L
+    100134: mano.R
+    100136: muslo.L
+    100138: muslo.R
+    100140: pantorrilla.L
+    100142: pantorrilla.R
+    100144: pecho
+    100146: rigging_enemigo_BOSS
+    100148: "Rotaci\xF3n de pie.L"
+    100150: "Rotaci\xF3n de pie.R"
+    100152: tobillo.L
+    100154: tobillo.R
+    400000: antebrazo.L
+    400002: antebrazo.R
+    400004: boca de estomago
+    400006: Bone.003
+    400008: Bone.004
+    400010: BOSS
+    400012: brazo.L
+    400014: brazo.R
+    400016: cintura
+    400018: columna
+    400020: conductor pierna.L
+    400022: conductor pierna.R
+    400024: dedo anular primer farange.L
+    400026: dedo anular primer farange.R
+    400028: dedo anular segunda farange.L
+    400030: dedo anular segunda farange.R
+    400032: dedo anular tercer farange.L
+    400034: dedo anular tercer farange.R
+    400036: dedo corazon primer farange.L
+    400038: dedo corazon primer farange.R
+    400040: dedo corazon tercer farange.L
+    400042: dedo corazon tercer farange.R
+    400044: "dedo coraz\xF3n segunda farange.L"
+    400046: "dedo coraz\xF3n segunda farange.R"
+    400048: dedo indice primer farange.L
+    400050: dedo indice primer farange.R
+    400052: dedo indice segunda farange.L
+    400054: dedo indice segunda farange.R
+    400056: dedo indice tercer farange.L
+    400058: dedo indice tercer farange.R
+    400060: dedo menique primer farange.L
+    400062: dedo menique primer farange.R
+    400064: dedo menique tercer farange.L
+    400066: dedo menique tercer farange.R
+    400068: dedo meniquesegunda farange.L
+    400070: dedo meniquesegunda farange.R
+    400072: dedo pulgar primer farange.L
+    400074: dedo pulgar primer farange.R
+    400076: dedo pulgar segunda farange.L
+    400078: dedo pulgar segunda farange.R
+    400080: dedo pulgar tercer farange.L
+    400082: dedo pulgar tercer farange.R
+    400084: empeine.L
+    400086: empeine.R
+    400088: hombro.L
+    400090: hombro.R
+    400092: ik antebrazo.R
+    400094: IK Codo .R
+    400096: Ik metatarzo adelante.L
+    400098: Ik metatarzo adelante.R
+    400100: ik muslo.L
+    400102: ik muslo.R
+    400104: IK talon.L
+    400106: IK talon.R
+    400108: IK tobillo.L
+    400110: IK tobillo.R
+    400112: //RootNode
+    400114: maestro
+    400116: maestro principal
+    400118: manejador dedo corazon.R
+    400120: manejador dedo indice.R
+    400122: manejador dedo pulgar.L
+    400124: manejador dedo pulgar.R
+    400126: manejador menique.R
+    400128: manipulador anular .R
+    400130: manipulador todos los dedos.R
+    400132: mano.L
+    400134: mano.R
+    400136: muslo.L
+    400138: muslo.R
+    400140: pantorrilla.L
+    400142: pantorrilla.R
+    400144: pecho
+    400146: rigging_enemigo_BOSS
+    400148: "Rotaci\xF3n de pie.L"
+    400150: "Rotaci\xF3n de pie.R"
+    400152: tobillo.L
+    400154: tobillo.R
+    2100000: ropa_personaje_BOSS
+    2100002: ojos_BOSS
+    4300000: BOSS
+    9500000: //RootNode
+    13700000: BOSS
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
