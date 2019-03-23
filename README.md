@@ -3,8 +3,7 @@
 
 Recreando spartan X Kunf fu nes con UNITY3D
 
-#### Video del proyecto:
-https://www.youtube.com/watch?v=2mdU4Yra1fc
+#### Video del proyecto ----->  <https://www.youtube.com/watch?v=2mdU4Yra1fc   <--------------
 
 <a href='https://drive.google.com/file/d/1SD7VPuX7f9SRpWFiL97-6e3e9fU_Lci8/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/DLaFKm9OUnbcWGkFpCFzWsAQLkVa8BxWasEnoU7_ZWboX1BEL4PoRXDVRRE=w2400' /></a>
 <a href='https://drive.google.com/file/d/1qHjq_Y0sVqdQi1M0V3TT-5LDpo0n6GIs/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh5.googleusercontent.com/4s9qGAvkSiXAbESK_oTRY8mkMiHIwtVcqvC8KDlVudJnl-JxeaR2PbtsfwI=w2400' /></a>
